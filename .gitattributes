@@ -1,3 +1,4 @@
-*.sql linguist-detectable=true
+# This file is only for GitHub language statistics purposes and is not part of the project code.
 
+*.sql linguist-detectable=true
 *.sql linguist-language=sql
