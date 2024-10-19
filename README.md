@@ -1,4 +1,4 @@
-# Airline-Management-System-AIROWINGS-
+# Airline-Management-System-AIROWINGS
 Take a look at my Airline Management System! ✈️ This comprehensive database project handles flights, passengers, and more to streamline airline operations.
 
 ## Table of Contents
