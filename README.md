@@ -124,7 +124,7 @@ For visual representations of the relational schema, you can access the followin
 
 ## Feedback and Support
 
-For any questions, issues, or support, please open an issue on the [`GitHub Issues page`](https://github.com/zainkashif1122/airowings-dbms/issues) or contact here **zainkashif1122@gmail.com**.
+For any questions, issues, or support, please open an issue on the [`GitHub Issues page`](https://github.com/zainkashif1122/airowings-dbms/issues) or contact here **`zainkashif1122@gmail.com`**.
 
 ## Stay Tuned
 
